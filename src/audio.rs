@@ -177,3 +177,7 @@ impl AudioClip {
         Ok(())
     }
 }
+
+pub struct Metronome {
+    
+}

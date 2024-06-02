@@ -1,5 +1,7 @@
 To build, run the following:
 
 ```
-carbo build
+# Wow I love rust
+cargo build
 ```
+
